@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "953453223195",
+    "firebase_url": "https://testauth-c0d7f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "testauth-c0d7f",
+    "storage_bucket": "testauth-c0d7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953453223195:android:4b6019311963d8a95387be",
+        "android_client_info": {
+          "package_name": "com.example.tourguideapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmFscKZSJR3K2n8q-9Obry1J-b80bqnb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
